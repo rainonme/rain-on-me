@@ -260,7 +260,7 @@ a {
 .ad-third {
   display:inline-block;
   max-height: 280px;
-  width: 32%;
+  width: 30%;
   clear: both;
 }
 
@@ -271,4 +271,5 @@ a {
 
 .main-content .ad-third{
   margin-bottom: 20px;
+  margin: 2%;
 }
